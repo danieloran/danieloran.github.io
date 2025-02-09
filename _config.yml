@@ -2,3 +2,9 @@ theme: minima
 title: Daniel Oran
 author: ""
 description: ""
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
