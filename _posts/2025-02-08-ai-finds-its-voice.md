@@ -8,6 +8,7 @@ Since the launch of ChatGPT, I’ve gotten used to being amazed by AI chatbots. 
 Until recently, computer voices seemed off, with weird intonations that made them sound robotic, not human. In contrast, the new voices of OpenAI’s ChatGPT and Google’s Gemini Live sound thoroughly human. And their AI also excels at listening: the speech recognition is remarkably accurate and quick, so they can reliably make sense of your spoken words — and respond without a noticeable delay.
 
 That combination of smooth voice interaction and AI has the potential to solve a big problem: computers can be frustratingly obtuse. The long-running joke is that they’re missing a DWIM button: “Do what I mean.”
+
 For the last 30 years, the primary way that we’ve controlled computers has been with a mouse or a finger — what computer scientists call direct manipulation.
 
 A multimodal design — melding direct manipulation and voice AI — changes that. You can discuss with the AI what both of you see on the screen.
