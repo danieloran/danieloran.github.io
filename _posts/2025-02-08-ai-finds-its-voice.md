@@ -9,7 +9,7 @@ Until recently, computer voices seemed off, with weird intonations that made the
 
 Suddenly, it seems reasonable to suggest that voice AI will change how we interact with computers.
 
-Sharing your screen with the AI — and being able to discuss with it what you see in the casual way that you might talk with a friend — would certainly make computers a lot easier to use. But more important, it might change what we use them for.
+Being able to discuss with the AI what you see on the screen — in the casual way that you might talk with a friend — would certainly make computers a lot easier to use. But more important, it might change what we use them for.
 
 A conversational computer might not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, mentor, or even confidant, depending upon the situation.
 
