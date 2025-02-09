@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Daniel Oran"
+title: "Home"
 ---
