@@ -23,7 +23,7 @@ They thought that we’d interact directly with machine intelligence, instead of
 
 In 1987, Apple released a speculative (and prophetic) video, “[Knowledge Navigator](https://www.youtube.com/watch?v=-jiBLQyUi38),” with a similarly collaborative conception of AI. A college professor speaks with an AI assistant while using a touchscreen computer. The interaction feels like a give-and-take with a graduate student.
 
-We’re heading toward that kind of collaborative voice AI, but it’s still early days. As yet, no real-world product comes close to the fictional Knowledge Navigator. It’s probably going to take a while, and the breakthroughs may not come from today’s dominant players, if history is any guide.
+We’re heading toward that kind of collaborative voice AI, but it’s still early days. As yet, no real-world product comes close to the fictional Knowledge Navigator. It’s probably going to take a while, and if history is any guide, the breakthroughs may not come from today’s dominant players.
 
 In the early ’90s, as the graphical user interface became increasingly popular, software leaders like Lotus and WordPerfect withered as they struggled to make the leap. And after the Apple iPhone changed the interaction paradigm in 2007, phone giants like BlackBerry and Nokia tanked. Voice AI user interfaces may turn out to be a similar watershed.
 
