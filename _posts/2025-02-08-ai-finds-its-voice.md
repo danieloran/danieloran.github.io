@@ -9,9 +9,9 @@ Until recently, computer voices seemed off, with weird intonations that made the
 
 Suddenly, it seems reasonable to suggest that voice AI will change how we interact with computers.
 
-For the last 30 years, the primary way that we’ve controlled computers has been with a mouse or a finger — what computer scientists call direct manipulation.
+Essentially sharing your screen with the AI — and being able to discuss what you see — would certainly make computers a lot easier to use. But more important, it would change what we use them for.
 
-Voice AI would make computers a lot easier to use. You could discuss with the AI what both of you see on the screen.
+This new kind of conversational computer would help not only with doing, but with thinking, serving as a thought partner, sounding board, mentor, or even confidant, depending upon the situation.
 
 Creating collaborative AI experiences, though, hasn’t been the focus of most innovation so far. Instead, AI has been generally conceived of as an “agent” to which you can hand off tasks like drafting a letter, writing computer code, or even shopping online.
 
