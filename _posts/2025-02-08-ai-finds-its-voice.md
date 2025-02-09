@@ -9,11 +9,11 @@ Until recently, computer voices seemed off, with weird intonations that made the
 
 Suddenly, it seems reasonable to suggest that voice AI will change how we interact with computers.
 
-Essentially sharing your screen with the AI — and being able to discuss what you see — would certainly make computers a lot easier to use. But more important, it would change what we use them for.
+Sharing your screen with the AI — and being able to discuss with it what you see in the casual way that you might talk with a friend — would certainly make computers a lot easier to use. But more important, it might change what we use them for.
 
-This new kind of conversational computer would help not only with doing, but with thinking, serving as a thought partner, sounding board, mentor, or even confidant, depending upon the situation.
+A conversational computer might not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, mentor, or even confidant, depending upon the situation.
 
-Creating collaborative AI experiences, though, hasn’t been the focus of most innovation so far. Instead, AI has been generally conceived of as an “agent” to which you can hand off tasks like drafting a letter, writing computer code, or even shopping online.
+So far, though, creating collaborative experiences hasn’t been the focus of most innovation in AI. Instead, the early role of AI has been to serve as an “agent” to which you can hand off tasks like drafting a letter, writing computer code, or shopping online.
 
 This might be called the delegation model of AI: it works *for* us, like an eager-to-please subordinate. You give instructions, then you can walk away — like the “batch mode” of old mainframe computers, which processed stacks of punch cards while you went for coffee.
 
