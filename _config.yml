@@ -10,3 +10,8 @@ nav:
     url: /about/
   - title: Contact
     url: /contact/
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
