@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI finds its voice: Collaborating with conversational computers"
-date: 2025-02-11
+date: 2025-02-10
 ---
 Since the launch of OpenAI’s ChatGPT, I’ve gotten used to being amazed by AI chatbots.
 
