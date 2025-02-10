@@ -3,13 +3,13 @@ layout: post
 title: "AI finds its voice: Collaborating with conversational computers"
 date: 2025-02-08
 ---
-Since the launch of ChatGPT, I’ve gotten used to being amazed by AI chatbots.
+Since the launch of OpenAI’s ChatGPT, I’ve gotten used to being amazed by AI chatbots.
 
 But I hadn’t anticipated how conversing out loud would transform the experience so fundamentally. I feel like I’m having a discussion with the AI in a way that typing back and forth can’t match.
 
 Until recently, computer voices seemed off, with weird intonations that made them sound robotic, not human.
 
-In contrast, the new voices of OpenAI’s ChatGPT and Google’s Gemini Live sound thoroughly human. And their AI also excels at listening: the speech recognition is remarkably accurate and quick, so they can reliably make sense of your spoken words — and usually respond without a noticeable delay.
+In contrast, the new voices of ChatGPT and Google’s Gemini Live sound thoroughly human. And their AI also excels at listening: the speech recognition is remarkably accurate and quick, so they can reliably make sense of your spoken words — and usually respond without a noticeable delay.
 
 Suddenly, it seems reasonable to suggest that voice AI will change how we interact with computers.
 
