@@ -21,6 +21,8 @@ permalink: /contact/
 
     <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
+    <input type="hidden" name="redirect" value="https://danieloran.github.io/thanks">
+    
     <button type="submit" style="padding: 12px; background-color: #007bff; color: white; border: none; cursor: pointer;">Send</button>
     
 </form>
