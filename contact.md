@@ -8,13 +8,13 @@ permalink: /contact/
     <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
 
     <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required>
+    <input type="text" id="name" name="name" required style="margin-bottom: 10px; padding: 12px; height: 40px;">
 
     <label for="email">Email:</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" required style="margin-bottom: 10px; padding: 12px; height: 40px;">
 
     <label for="message">Message:</label>
-    <textarea id="message" name="message" required></textarea>
+    <textarea id="message" name="message" required style="margin-bottom: 20px; padding: 12px; height: 120px;"></textarea>
 
-    <button type="submit" style="padding: 10px; background-color: #007bff; color: white; border: none; cursor: pointer;">Send</button>
+    <button type="submit" style="padding: 12px; background-color: #007bff; color: white; border: none; cursor: pointer;">Send</button>
 </form>
