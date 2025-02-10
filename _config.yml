@@ -2,6 +2,7 @@ theme: minima
 title: Daniel Oran
 author: ""
 description: ""
+rss: false
 
 nav:
   - title: Home
