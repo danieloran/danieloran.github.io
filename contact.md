@@ -6,7 +6,7 @@ permalink: /contact/
     
 <form action="https://api.web3forms.com/submit" method="POST" style="display: flex; flex-direction: column; width: 100%; max-width: 400px;">
 
-    <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+    <input type="hidden" name="access_key" value="a7b7d727-327e-4893-81d4-c9c46757a742">
 
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required style="margin-bottom: 10px; padding: 12px; height: 20px;">
