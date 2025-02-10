@@ -27,6 +27,6 @@ In 1987, Apple released a speculative (and prophetic) video, “[Knowledge Navig
 
 We’re heading toward that kind of collaborative voice AI, but it’s still early days. As yet, no real-world product comes close to the fictional Knowledge Navigator. It’s probably going to take a while, and if history is any guide, the breakthroughs may not come from today’s dominant players.
 
-In the early ’90s, as the graphical user interface became increasingly popular, software leaders like Lotus and WordPerfect withered as they struggled to make the leap. And after the Apple iPhone changed the interaction paradigm in 2007, phone giants like BlackBerry and Nokia tanked. Voice AI user interfaces may turn out to be a similar watershed.
+In the early ’90s, as the graphical user interface became increasingly popular, software leaders like Lotus and WordPerfect withered as they struggled to make the leap. And after the Apple iPhone changed the interaction paradigm in 2007, phone giants like BlackBerry and Nokia tanked. Conversational computers may turn out to be a similar watershed.
 
 “The best way to predict the future is to invent it,” said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.
