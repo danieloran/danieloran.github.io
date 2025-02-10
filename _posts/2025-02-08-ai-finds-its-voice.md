@@ -3,7 +3,9 @@ layout: post
 title: "AI finds its voice: Collaborating with conversational computers"
 date: 2025-02-08
 ---
-Since the launch of ChatGPT, I’ve gotten used to being amazed by AI chatbots. But I hadn’t anticipated how conversing out loud would transform the experience so fundamentally. I feel like I’m having a discussion with the AI in a way that typing back and forth can’t match.
+Since the launch of ChatGPT, I’ve gotten used to being amazed by AI chatbots.
+
+But I hadn’t anticipated how conversing out loud would transform the experience so fundamentally. I feel like I’m having a discussion with the AI in a way that typing back and forth can’t match.
 
 Until recently, computer voices seemed off, with weird intonations that made them sound robotic, not human.
 
