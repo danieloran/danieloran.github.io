@@ -4,7 +4,9 @@ author: ""
 description: ""
 
 nav:
-  - title: Home
-    url: /
+  - title: Contact
+    url: /contact/
   - title: About
     url: /about/
+  - title: Home
+    url: /
