@@ -17,7 +17,7 @@ Being able to discuss with the AI what you see on the screen — in the casual w
 
 A conversational computer might not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, mentor, or even confidant, depending upon the situation.
 
-So far, though, creating collaborative experiences hasn’t been the focus of most innovation in AI. Instead, the early role of AI has been to serve as an “agent” to which you can hand off tasks like drafting a letter, writing computer code, or shopping online.
+So far, though, creating collaborative, real-time experiences hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.
 
 This might be called the delegation model of AI: it works *for* us, like an eager-to-please subordinate. You give instructions, then you can walk away — like the “batch mode” of old mainframe computers, which processed stacks of punch cards while you went for coffee.
 
