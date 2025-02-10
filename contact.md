@@ -4,9 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-Find me on <a href="https://www.linkedin.com/in/danieloran/">LinkedIn</a> , or...
-
-<br>
+<p style="margin-bottom: 20px;">Find me on [LinkedIn](https://www.linkedin.com/in/danieloran/), or...</p>
     
 <form action="https://api.web3forms.com/submit" method="POST" style="display: flex; flex-direction: column; width: 100%; max-width: 400px;">
 
