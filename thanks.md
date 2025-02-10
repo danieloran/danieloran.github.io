@@ -4,4 +4,4 @@ title: "Contact"
 permalink: /thanks/
 ---
 
-Thanks! I appreciate your message.
+Thanks for sending a message.
