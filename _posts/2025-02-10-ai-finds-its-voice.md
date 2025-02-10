@@ -23,7 +23,7 @@ This might be called the delegation model of AI: it works *for* us, like an eage
 
 But some of the best-known early speculations about the future of computing — from Vannevar Bush’s “[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)” in 1945 to Douglas Engelbart’s “[Augmenting Human Intellect](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003230762-3/augmenting-human-intellect-douglas-engelbart)” in 1962 — focused instead on collaboration: imagining how smart machines might work *with* us to enhance our abilities.
 
-They thought that we’d interact directly with machine intelligence, instead of just delegating and walking away. Interacting right now instead of getting results later — in fancier terms, synchronously, rather than asynchronously — makes the experience very different.
+They thought that we’d interact directly with machine intelligence, instead of just delegating and walking away. Interacting right now instead of getting results later — synchronously, rather than asynchronously — makes the experience very different.
 
 In 1987, Apple released a speculative (and prophetic) video, “[Knowledge Navigator](https://www.youtube.com/watch?v=-jiBLQyUi38),” with a similarly collaborative conception of AI. A college professor speaks with an AI assistant while using a touchscreen computer. The interaction feels like a give-and-take with a graduate student.
 
