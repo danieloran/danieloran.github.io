@@ -7,6 +7,6 @@ nav:
   - title: Home
     url: /
   - title: About
-    url: /about/
+    url: /1-about/
   - title: Contact
-    url: /contact/
+    url: /2-contact/
