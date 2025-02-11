@@ -11,7 +11,7 @@ Suddenly, it seems reasonable to suggest that voice AI will change how we intera
 
 Until recently, computer voices seemed off, with weird intonations that made them sound robotic, not human.
 
-In contrast, the latest voices of ChatGPT and Google’s Gemini Live sound thoroughly human. And their AI also excels at listening: the speech recognition is remarkably accurate and quick, so they can reliably make sense of your spoken words — and usually respond without a noticeable delay.
+In contrast, the latest voices of ChatGPT and Google’s Gemini Live sound thoroughly human. And their AI also excels at listening: the speech recognition is remarkably accurate and quick, so the apps can reliably make sense of your spoken words — and usually respond without a noticeable delay.
 
 Being able to discuss with the AI what you see on the screen — in the casual way that you might talk with a friend — would certainly make computers a lot easier to use. But more important, it might change what we use them for.
 
