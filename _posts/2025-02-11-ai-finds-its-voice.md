@@ -2,9 +2,9 @@
 layout: post
 title: "AI finds its voice: Collaborating with conversational computers"
 date: 2025-02-11
-image: "/assets/images/talk.jpg"
+image: "/assets/images/comic.jpg"
 ---
-![Man in front of laptop screen with text that says, "Let's talk."](/assets/images/letstalk.jpg)
+![Comic-style illustration of a man in front of a laptop. A voice bubble from the screen says, "Let's talk."](/assets/images/comic.jpg)
 
 Since the launch of OpenAI’s ChatGPT, I’ve gotten used to being amazed by AI chatbots.
 
