@@ -24,7 +24,7 @@ So far, though, creating collaborative, real-time experiences hasn’t been the 
 
 This might be called the delegation model of AI: it works *for* us, like an eager-to-please subordinate. You give instructions, then you can walk away — like the “batch mode” of old mainframe computers, which processed stacks of punch cards while you went for coffee.
 
-But some of the best-known early speculations about the future of computing — from Vannevar Bush’s “[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)” in 1945 to Douglas Engelbart’s “[Augmenting Human Intellect](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003230762-3/augmenting-human-intellect-douglas-engelbart)” in 1962 — focused instead on collaboration: imagining how smart machines might work *with* us to enhance our abilities.
+But some of the best-known early speculation about the future of computing — from Vannevar Bush’s “[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)” in 1945 to Douglas Engelbart’s “[Augmenting Human Intellect](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003230762-3/augmenting-human-intellect-douglas-engelbart)” in 1962 — focused instead on collaboration: imagining how smart machines might work *with* us to enhance our abilities.
 
 They thought that we’d interact directly with machine intelligence, instead of just delegating and walking away. Interacting right now instead of getting results later makes the experience very different.
 
