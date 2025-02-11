@@ -15,7 +15,7 @@ In contrast, the latest voices of ChatGPT and Google’s Gemini Live sound thoro
 
 Being able to discuss with the AI what you see on the screen — in the casual way that you might talk with a friend — would certainly make computers a lot easier to use. But more important, it might change what we use them for.
 
-A conversational computer might not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, mentor, or even confidant, depending upon the situation.
+A conversational computer might not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
 
 So far, though, creating collaborative, real-time experiences hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.
 
