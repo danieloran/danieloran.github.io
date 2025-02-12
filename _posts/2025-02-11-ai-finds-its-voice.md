@@ -11,7 +11,7 @@ image: "/assets/images/comic.jpg"
 
 But I’ve been amazed by the latest AI chatbots, which boast voices that sound incredibly human-like, and can understand and reply immediately.
 
-Voice AI isn’t the future anymore. It’s today. And it’s going to radically transform our computers.
+Voice AI isn’t the future anymore. It’s today. And it’s going to radically transform computers.
 
 Being able to discuss with the AI what you see on the screen — in the casual way that you talk to a friend — will make computers a lot easier to use. But more important, it will change what we use them for.
 
