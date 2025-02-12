@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI finds its voice: Collaborating with conversational computers"
+title: "AI finds its voice: Now entering the conversational computing age"
 date: 2025-02-11
 image: "/assets/images/comic.jpg"
 ---
