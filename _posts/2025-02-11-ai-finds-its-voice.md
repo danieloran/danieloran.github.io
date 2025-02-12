@@ -13,7 +13,7 @@ But I’ve been amazed by the latest AI chatbots, which boast voices that sound 
 
 Voice AI isn’t the future anymore. It’s today. And it’s going to radically transform our computers.
 
-Being able to discuss with the AI what you see on the screen — in the casual way that you talk with a friend — will make computers a lot easier to use. But more important, it will change what we use them for.
+Being able to discuss with the AI what you see on the screen — in the casual way that you talk to a friend — will make computers a lot easier to use. But more important, it will change what we use them for.
 
 A conversational computer will not only help you do things — for example, figure out how to use a specific software feature — but also help you *think*, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
 
