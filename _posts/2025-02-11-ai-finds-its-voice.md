@@ -19,7 +19,7 @@ A conversational computer will not only help you do things — for example, figu
 
 **So far, though, creating collaborative, real-time experiences** hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.
 
-This might be called the delegation model of AI: it works *for* us, like an eager-to-please subordinate. You give instructions, then you can walk away — like the “batch mode” of old mainframe computers, which processed stacks of punch cards while you went for coffee.
+This might be called the delegation model of AI: it works *for* us, like an eager-to-please employee. You give instructions, then you can walk away — like the “batch mode” of old mainframe computers, which processed stacks of punch cards while you went for coffee.
 
 But some of the best-known early speculation about the future of computing — from Vannevar Bush’s “[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)” in 1945 to Douglas Engelbart’s “[Augmenting Human Intellect](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003230762-3/augmenting-human-intellect-douglas-engelbart)” in 1962 — focused instead on collaboration: imagining how smart machines might work *with* us to enhance our abilities.
 
@@ -31,4 +31,4 @@ We’re heading toward that kind of collaborative voice AI, but it’s still ear
 
 In the early ’90s, as the graphical user interface became increasingly popular, software leaders like Lotus and WordPerfect withered as they struggled to make the leap. And after the Apple iPhone changed the interaction paradigm in 2007, phone giants like BlackBerry and Nokia tanked. Conversational computers may turn out to be a similar watershed.
 
-**“The best way to predict the future is to invent it,”** said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.<span style="font-size: 1.5em; color: red; vertical-align: baseline; display: inline-block; line-height: 1;">■</span>
+**“The best way to predict the future is to invent it,”** said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.<span style="font-size: 1.5em; color: red; vertical-align: -0.4em; line-height: 0;">■</span>
