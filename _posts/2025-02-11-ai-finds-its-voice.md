@@ -7,7 +7,7 @@ image: "/assets/images/comic.jpg"
 
 ![Comic-style illustration of a man in front of a laptop. A voice bubble from the screen says, "Let's talk."](/assets/images/comic.jpg)
 
-**I used to think that computers you could really talk to** — out loud, in a meaningful conversation — were far in the future.
+**I used to think that computers you could really talk to** — out loud, in an actual conversation — were far in the future.
 
 But I’ve been amazed by the latest AI chatbots, which boast voices that sound incredibly human-like, and can understand and reply immediately.
 
