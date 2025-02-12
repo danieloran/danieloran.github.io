@@ -31,4 +31,4 @@ We’re heading toward that kind of collaborative voice AI, but it’s still ear
 
 In the early ’90s, as the graphical user interface became increasingly popular, software leaders like Lotus and WordPerfect withered as they struggled to make the leap. And after the Apple iPhone changed the interaction paradigm in 2007, phone giants like BlackBerry and Nokia tanked. Conversational computers may turn out to be a similar watershed.
 
-**“The best way to predict the future is to invent it,”** said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.<span style="font-size: 1em; color: red; vertical-align: baseline;">■</span>
+**“The best way to predict the future is to invent it,”** said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.<span style="font-size: 1.5em; color: red; vertical-align: baseline;">■</span>
