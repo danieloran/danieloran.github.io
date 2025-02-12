@@ -9,13 +9,13 @@ image: "/assets/images/comic.jpg"
 
 **I used to think that computers you could really talk to** — out loud, in a meaningful conversation — were far in the future.
 
-But I’ve been amazed by the latest AI chatbots, which boast voices that sound incredibly human-like, and have the ability to understand and reply without distracting delays.
+But I’ve been amazed by the latest AI chatbots, which boast voices that sound incredibly human-like, and can understand and reply immediately.
 
 Voice AI isn’t the future anymore. It’s today. And it’s going to radically transform our computers.
 
 Being able to discuss with the AI what you see on the screen — in the casual way that you talk with a friend — will make computers a lot easier to use. But more important, it will change what we use them for.
 
-A conversational computer will not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
+A conversational computer will not only help you do things — for example, figure out how to use a specific software feature — but also help you *think*, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
 
 **So far, though, creating collaborative, real-time experiences** hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.
 
@@ -31,4 +31,4 @@ We’re heading toward that kind of collaborative voice AI, but it’s still ear
 
 In the early ’90s, as the graphical user interface became increasingly popular, software leaders like Lotus and WordPerfect withered as they struggled to make the leap. And after the Apple iPhone changed the interaction paradigm in 2007, phone giants like BlackBerry and Nokia tanked. Conversational computers may turn out to be a similar watershed.
 
-**“The best way to predict the future is to invent it,”** said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.<span style="font-size: 1em; color: red; vertical-align: text-bottom;">■</span>
+**“The best way to predict the future is to invent it,”** said Alan Kay, the pioneering computer scientist. We’re now living through a period of intense invention in voice AI that will shape the future of computing for decades to come.<span style="font-size: 1.5em; color: red; vertical-align: text-bottom; line-height: 1;">■</span>
