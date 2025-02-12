@@ -7,11 +7,12 @@ image: "/assets/images/comic.jpg"
 
 <style>
 .drop-cap {
-  font-size: 3.5em;
+  font-size: 3em;
   font-weight: bold;
   float: left;
   line-height: 1;
   margin-right: 8px;
+  font-family: serif;
 }
 
 .bold-start {
