@@ -12,12 +12,10 @@ image: "/assets/images/comic.jpg"
   float: left;
   line-height: 1;
   margin-right: 8px;
-  font-family: serif;
 }
 
 .bold-start {
   font-weight: bold;
-  text-transform: uppercase;
 }
 </style>
 
