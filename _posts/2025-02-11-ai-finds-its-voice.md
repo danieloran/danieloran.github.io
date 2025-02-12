@@ -4,21 +4,33 @@ title: "AI finds its voice: Collaborating with conversational computers"
 date: 2025-02-11
 image: "/assets/images/comic.jpg"
 ---
+
+<style>
+.drop-cap {
+  font-size: 2.5em;
+  font-weight: bold;
+  float: left;
+  line-height: 1;
+  margin-right: 8px;
+}
+
+.bold-start {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+</style>
+
 ![Comic-style illustration of a man in front of a laptop. A voice bubble from the screen says, "Let's talk."](/assets/images/comic.jpg)
 
-Since the launch of OpenAI’s ChatGPT, I’ve gotten used to being amazed by AI chatbots.
+<p><span class="drop-cap">I</span><span class="bold-start">used to think</span> that computers you could really talk to — out loud, and in a meaningful conversation — were far in the future.</p>
 
-But I hadn’t anticipated how conversing out loud would transform the experience so fundamentally. I feel like I’m having a discussion with the AI in a way that typing back and forth can’t match.
+But I’ve been amazed by the latest AI chatbots, which boast voices that sound incredibly human-like, and have the ability to understand and reply without distracting delays.
 
-Suddenly, it seems reasonable to suggest that voice AI will change how we interact with computers.
+Voice AI isn’t the future anymore. It’s today. And it’s going to radically transform our computers.
 
-Until recently, computer voices seemed off, with weird intonations that made them sound robotic, not human.
+Being able to discuss with the AI what you see on the screen — in the casual way that you talk with a friend — will make computers a lot easier to use. But more important, it will change what we use them for.
 
-In contrast, the latest voices of ChatGPT and Google’s Gemini Live sound thoroughly human. And their AI also excels at listening: the speech recognition is remarkably accurate and quick, so the apps can reliably make sense of your spoken words — and usually respond without a noticeable delay.
-
-Being able to discuss with the AI what you see on the screen — in the casual way that you might talk with a friend — would certainly make computers a lot easier to use. But more important, it might change what we use them for.
-
-A conversational computer might not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
+A conversational computer will not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
 
 So far, though, creating collaborative, real-time experiences hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.
 
