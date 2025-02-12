@@ -21,7 +21,7 @@ image: "/assets/images/comic.jpg"
 
 ![Comic-style illustration of a man in front of a laptop. A voice bubble from the screen says, "Let's talk."](/assets/images/comic.jpg)
 
-<p><span class="drop-cap">I</span><span class="bold-start">used to think that computers</span> you could really talk to — out loud, and in a meaningful conversation — were far in the future.</p>
+<p><span class="drop-cap">I</span><span class="bold-start">used to think that computers</s pan>you could really talk to — out loud, and in a meaningful conversation — were far in the future.</p>
 
 But I’ve been amazed by the latest AI chatbots, which boast voices that sound incredibly human-like, and have the ability to understand and reply without distracting delays.
 
@@ -31,7 +31,7 @@ Being able to discuss with the AI what you see on the screen — in the casual w
 
 A conversational computer will not only help you do things — for example, figure out how to use a specific software feature — but also help you think, serving as a brainstorming partner, teacher, or even confidant, depending upon the situation.
 
-So far, though, creating collaborative, real-time experiences hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.
+<p><span class="drop-cap">S</span><span class="bold-start">o far, though, </span> creating collaborative, real-time experiences hasn’t been the primary focus of recent innovation in AI. Instead, many current uses of AI involve handing off tasks like drafting an email or writing computer code.</p>
 
 This might be called the delegation model of AI: it works *for* us, like an eager-to-please subordinate. You give instructions, then you can walk away — like the “batch mode” of old mainframe computers, which processed stacks of punch cards while you went for coffee.
 
