@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI finds its voice: Now entering the conversational computing era"
-date: 2025-02-11
+date: 2025-02-12
 image: "/assets/images/comic.jpg"
 ---
 
