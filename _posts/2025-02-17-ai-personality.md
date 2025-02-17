@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Every AI has a personality — and why it matters"
-date: 2025-02-16
+date: 2025-02-17
 image: "/assets/images/freud.jpg"
 ---
 
