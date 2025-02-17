@@ -29,7 +29,7 @@ In the case of people we meet, personality matters because it affects how we int
 
 In the same way for AI, personality matters because it changes how people deal with it. An AI that is perceived as brusque may decrease engagement. Users may be less likely to return for more. An AI that is perceived as warm and friendly may be more persuasive because users feel understood.
 
-**The business implications are clear.** The personality of your AI must be calibrated for your goals. Effectively matching AI personality to the use case is crucial for success
+**The business implications are clear.** Effectively matching AI personality to the use case is crucial for success
 
 As AI is deployed more widely, its personality will become an important part of a company’s brand. And just as brands vary widely, AI personalities will, too. For example, the personality of a Whole Foods AI will likely be different from a Walmart AI.
 
