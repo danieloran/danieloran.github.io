@@ -17,11 +17,11 @@ As AI products become more sophisticated and widely used, their developers will 
 
 **It doesn’t take much for AI to trigger** our person perception processes.
 
-In the mid-1960s, the MIT computer scientist Joseph Weizenbaum created a rudimentary, text-based chatbot named ELIZA. The underlying computer program was simple — light-years removed from today’s large language models.
+In the mid-1960s, the MIT computer scientist Joseph Weizenbaum created a rudimentary, text-based chatbot named [ELIZA](https://en.wikipedia.org/wiki/ELIZA). The underlying computer program was simple — light-years removed from today’s large language models.
 
 But an ELIZA script called DOCTOR, which was inspired by the conversational style of the psychotherapist Carl Rogers, convinced many users that they were speaking with a wise, empathetic counselor.
 
-Sixty years later, AI has become ever more human-like — particularly when we interact with it through voice-based interfaces.
+Sixty years later, AI has become ever more human-like — particularly when we interact with it through [voice-based interfaces](https://danieloran.github.io/2025/02/12/ai-finds-its-voice.html).
 
 **What’s so special about voice?** Far more than text, voice can convey a variety of information about the speaker, including psychological factors like emotion, mood, and intention, and demographic factors like ethnicity, socioeconomic status, and race. Together, these details greatly influence how we perceive the person — or AI — that we’re speaking with.
 
