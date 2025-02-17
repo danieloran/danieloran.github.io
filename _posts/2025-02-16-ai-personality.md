@@ -5,7 +5,7 @@ date: 2025-02-16
 image: "/assets/images/freud.jpg"
 ---
 
-![Comic-style illustration of a Sigmund Freud sitting in a leather armchair while using a laptop computer"](/assets/images/freud.jpg)
+![Comic-style illustration of Sigmund Freud sitting in a leather armchair while using a laptop computer"](/assets/images/freud.jpg)
 
 **Within moments of meeting new people,** we size up what they’re like. Are they reserved or outgoing? Gruff or friendly?
 
@@ -37,12 +37,12 @@ Personality engineering is a nascent field in AI. As yet, there are no best prac
 
 The ethics of such AI personality engineering have only begun to be explored.
 
-Is it ethical to design an AI personality with recognizable ethnic or racial voice characteristics in order to engage or persuade members of a particular group?
+**Is it ethical to design an AI personality** with recognizable ethnic or racial voice characteristics in order to engage or persuade members of a particular group?
 
 Is it ethical to deploy an especially empathetic-seeming AI personality for certain purposes, e.g., encouraging healthier behaviors, but not for others, e.g., selling used cars?
 
 There are sure to be legal and regulatory constraints applied in coming years, but it’s too early to make predictions — or recommendations.
 
-**Only one thing is certain:** every AI will have a personality because that’s the inevitable (and unavoidable) result of our automatic person perception processes.
+Only one thing is certain: every AI will have a personality because that’s the inevitable (and unavoidable) result of our automatic person perception processes.
 
-We will ascribe a personality to each AI that we encounter — whatever the preferences of the AI’s creator. So it’s incumbent on those who develop AI to figure out what that personality will be.<span style="font-size: 1.3em; color: red; vertical-align: -0.05em; line-height: 0;">■</span>
+**We will ascribe a personality to each AI** that we encounter — whatever the preferences of the AI’s creator. So it’s incumbent on those who develop AI to figure out what that personality will be.<span style="font-size: 1.3em; color: red; vertical-align: -0.05em; line-height: 0;">■</span>
