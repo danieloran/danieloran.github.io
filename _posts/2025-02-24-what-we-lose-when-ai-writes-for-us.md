@@ -17,7 +17,7 @@ Real writing — the kind where you spend long periods staring uncomfortably at 
 
 **When you do it right**, writing is clear thinking, distilled and explained in a way that other people can understand. That’s a two-part activity: considering a topic deeply enough so you understand it and then figuring out how to communicate that knowledge.
 
-There’s a big obstacle here: thinking — at least this focused, analytical kind — is unpleasant to do. Almost anything else that might occupy your attention is more appealing. So it takes a fair amount of self-discipline to force yourself to do it.
+There’s a big obstacle here: focused, analytical thinking is unpleasant to do. Almost anything else that might occupy your attention is more appealing. So it takes a fair amount of self-discipline to force yourself to do it.
 
 Even if you have some small success with thinking and eke out a few insightful nuggets, you still need to find a way to explain what you’ve learned to someone else. And that can be a gaping chasm to cross. How do you assemble sentences and paragraphs that inform, persuade, and maybe even entertain your readers? It’s not easy.
 
