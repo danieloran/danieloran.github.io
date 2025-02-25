@@ -37,6 +37,6 @@ Even before AI, the truth is that few people mastered this craft, whether for wa
 
 I worry that AI will make that small number even smaller, and deprive us of writing — and thinking — that can change the world.
 
-Maybe the answer is some form of [collaborative AI](https://danieloran.github.io/2025/02/12/ai-finds-its-voice.html), which doesn’t do the homework for you, but instead prods would-be writers to discover what’s daring and new inside them.
+Maybe the answer is some form of [collaborative AI](https://danieloran.github.io/2025/02/12/ai-finds-its-voice.html), which doesn’t do all of the work for you, but instead prods would-be writers to discover what’s daring and new inside them.
 
 **But I think it would be a mistake** to entirely tame the ferocity of the blank page. Staring into the void is a scary, but necessary, first step if you want to write anything worth reading.<span style="font-size: 1.3em; color: red; vertical-align: -0.05em; line-height: 0;">■</span>
