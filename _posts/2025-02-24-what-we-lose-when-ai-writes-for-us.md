@@ -19,9 +19,9 @@ There’s a big obstacle here: focused, analytical thinking is unpleasant to do.
 
 Even if you have some small success with thinking and eke out a few insightful nuggets, you still need to find a way to explain what you’ve learned to someone else. And that can be a gaping chasm to cross. How do you assemble sentences and paragraphs that inform, persuade, and maybe even entertain your readers? It’s not easy.
 
-In 2004, Jeff Bezos [banned](https://web.archive.org/web/20150730231457/http://blog.hirevue.com/sales/what-i-learned-from-jeff-bezos-about-sales-management) PowerPoint presentations from meetings with his senior team.
+**In 2004, Jeff Bezos [banned](https://web.archive.org/web/20150730231457/http://blog.hirevue.com/sales/what-i-learned-from-jeff-bezos-about-sales-management) PowerPoint presentations** from meetings with his senior team.
 
-**In their place,** he later [explained](https://www.youtube.com/watch?v=NE8DX8_Xg4E): "All of our meetings are structured around a six-page narrative memo. When you have to write your ideas out in complete sentences and complete paragraphs, it forces a deeper clarity of thinking."
+In their place, he later [explained](https://www.youtube.com/watch?v=NE8DX8_Xg4E): "All of our meetings are structured around a six-page narrative memo. When you have to write your ideas out in complete sentences and complete paragraphs, it forces a deeper clarity of thinking."
 
 It also sparks creativity. Because in doing the writing — and *only* by doing the writing — unexpected ideas arise. When you shine a light on topics that you had only scarcely considered before, new possibilities gradually become apparent.
 
