@@ -12,4 +12,4 @@ I was the last student of the behavioral psychologist B.F. Skinner, who sent me 
 
 Over the years, I've worked on start-ups, written a few [novels](https://arstechnica.com/uncategorized/2008/01/beta-testing-a-novel-using-amazons-kindle/), encouraged people to [vote](https://www.motherjones.com/politics/2012/10/moveon-victory-lab-voter-mobilization-obama-progressives/), and contributed to health [research](https://www.acpjournals.org/doi/10.7326/M20-3012).
 
-The huge advances in AI over the last few years have rekindled my interest in software. As Jeff Bezos might say, it feels very much like Day 1.
+The huge advances in AI over the last few years have rekindled my interest in software. As Amazon founder Jeff Bezos might say, it feels very much like Day 1.
