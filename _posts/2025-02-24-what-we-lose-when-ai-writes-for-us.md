@@ -7,7 +7,7 @@ image: "/assets/images/robot-writer.jpg"
 
 ![Comic-style illustration of writer sitting next to robot who is writing for him"](/assets/images/robot-writer.jpg)
 
-**I’m not sure how to say this** without sounding like your high school English teacher, but when you let AI do the writing, you’re only hurting yourself.
+**I’m not sure how to say this** without sounding like your high school English teacher, but when you let AI do the writing, you’re only cheating yourself.
 
 Yes, I know, writing is so much easier now that you don’t actually have to write. (Coming up with a “prompt” for an AI model isn’t writing.)
 
