@@ -11,7 +11,7 @@ image: "/assets/images/robot-writer.jpg"
 
 Yes, I know, writing is so much easier now that you don’t actually have to write. (Coming up with a “prompt” for an AI model isn’t writing.)
 
-But we’re making a Faustian bargain with the AI gods: in exchange for painless perfect prose, we’re giving up rare, elusive moments of clarity and creativity.
+But we’re making a Faustian bargain with the AI gods: in exchange for painless perfect prose, we’re sacrificing rare, elusive moments of clarity and creativity.
 
 **Real writing** — the kind where you spend long periods staring uncomfortably at a blank page — is undeniably hard. It’s clear thinking, distilled and explained in a way that other people can understand. That’s a two-part activity: considering a topic deeply enough so you understand it and then figuring out how to communicate that knowledge.
 
