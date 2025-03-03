@@ -25,11 +25,11 @@ In other fields, we can already see the potential of these new AI capabilities.
 
 **For example, in healthcare**, [AI is being used to check in on patients](https://www.hippocraticai.com/personalized-interactions) who are living with chronic diseases. In periodic phone conversations, the AI gets to know the patient as a whole person who’s more than just a collection of medical issues, and is able to make small talk about what’s been happening in the patient’s life.
 
-Similarly, in education, AI will develop a enduring personal connection with each student. It might begin in preschool and last a lifetime.
+Similarly, in education, AI will develop an enduring personal connection with each student. It might begin in preschool and last a lifetime.
 
 In this way, the AI teacher will become an expert on *you*.
 
-Whether you’re interested in dinosaurs at age four, baseball at ten, or dating at 16, AI will flexibly adapt the lesson to the learner.
+Whether you’re interested in dinosaurs at age four, baseball at ten, or poetry at 21, AI will flexibly adapt the lesson to the learner.
 
 **Unlike the Roman army organization** of traditional classroom instruction — with students marching together in lockstep — AI teaching will take into account how each student actually learns most effectively.
 
