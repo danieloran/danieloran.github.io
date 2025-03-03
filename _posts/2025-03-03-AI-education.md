@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is education AI’s real killer app?"
-date: 2025-03-02
+date: 2025-03-03
 image: "/assets/images/robot-teacher.jpg"
 ---
 
