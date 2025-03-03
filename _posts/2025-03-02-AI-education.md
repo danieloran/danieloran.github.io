@@ -29,7 +29,7 @@ Similarly, in education, AI will develop an enduring personal connection with ea
 
 In this way, the AI teacher will become an expert on *you*.
 
-Whether you’re interested in dinosaurs at age four, baseball at ten, or poetry at 21, AI will flexibly adapt the lesson to the learner.
+Whether you’re interested in dinosaurs at age four, baseball at ten, or poetry at 16, AI will flexibly adapt the lesson to the learner.
 
 **Unlike the Roman army organization** of traditional classroom instruction — with students marching together in lockstep — AI teaching will take into account how each student actually learns most effectively.
 
